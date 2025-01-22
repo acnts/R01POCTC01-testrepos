@@ -1,0 +1,115 @@
+Manifest-Version: 1.0
+
+Name: TestJob_WithVar/TestJob_WithVar_run.bat
+SHA-256-Digest: J4MVlAiWCtxue3BznOw8d7GpbI3dhA1mPA1uBEOPSTA=
+
+Name: TestJob_WithVar/TestJob_WithVar_run.ps1
+SHA-256-Digest: DARbTwuzcNxziCO4CHnQQuyRkAEz4tGkGjB0ZYab94M=
+
+Name: TestJob_WithVar/items/r01poctc01_test/.settings/migration_task.i
+ ndex
+SHA-256-Digest: 4+sY4KNqRpsIUvSZ4so/yBHMQLUbmjib/KrAEn9tGYo=
+
+Name: TestJob_WithVar/items/r01poctc01_test/.settings/project.settings
+SHA-256-Digest: JyzAe8qmtIe3NrARSD2Jokm8noNP9l8ZqVvAoPG21AA=
+
+Name: TestJob_WithVar/items/r01poctc01_test/.settings/relationship.ind
+ ex
+SHA-256-Digest: lHTuqUvbDR55YCgKrsb8OJs3CAL/aPI/Swo3IVqx/aE=
+
+Name: TestJob_WithVar/items/r01poctc01_test/process/demo/TestJob_WithV
+ ar_0.1.item
+SHA-256-Digest: beUhNwGHpHWMvP1wgNBREZPoiYkdfBzfs0jCQYDMbFU=
+
+Name: TestJob_WithVar/items/r01poctc01_test/process/demo/TestJob_WithV
+ ar_0.1.properties
+SHA-256-Digest: fWlOk0pqX7YVRK12vkX534namSStZcmvKKWDtoRrT4I=
+
+Name: TestJob_WithVar/items/r01poctc01_test/process/demo/TestJob_WithV
+ ar_0.1.screenshot
+SHA-256-Digest: cOcFt7jJAvZ6ezpeauVgm12cjeL2PRfht7syQsQwNcg=
+
+Name: TestJob_WithVar/items/r01poctc01_test/talend.project
+SHA-256-Digest: dS5WTG0ZteAS3gcdJEhw5iMir9hMSDvp/lg377Q5kSQ=
+
+Name: TestJob_WithVar/log4j2.xml
+SHA-256-Digest: +BAZJFvAXs4z6ZMcORfUZveRpqHD6N51/7kAnQjet3I=
+
+Name: TestJob_WithVar/r01poctc01_test/testjob_withvar_0_1/contexts/Def
+ ault.properties
+SHA-256-Digest: B/x1Ah5vNRdP/l/l8f/loga0nMIIUvYtDa3PlDZ34ts=
+
+Name: TestJob_WithVar/src/main/java/r01poctc01_test/testjob_withvar_0_
+ 1/TestJob_WithVar.java
+SHA-256-Digest: IuzNug7Ii9B8XuV8EPHFvY1F2fHDz728GMjbl5A763w=
+
+Name: TestJob_WithVar/src/main/resources/r01poctc01_test/testjob_withv
+ ar_0_1/contexts/Default.properties
+SHA-256-Digest: B/x1Ah5vNRdP/l/l8f/loga0nMIIUvYtDa3PlDZ34ts=
+
+Name: TestJob_WithVar/testjob_withvar_0_1.jar
+SHA-256-Digest: pH6YJ0tx6aglm30ZCiSxvJGaE4NsRj3zEQaRQBJAcIE=
+
+Name: jobInfo.properties
+SHA-256-Digest: nqrqotZ6n1fAX1igw5uxZCrSqIdmLbc3Z+INhYryB9o=
+
+Name: lib/accessors-smart-2.4.11.jar
+SHA-256-Digest: LqesA7G3eW2exZ/PonG2b/UM2AGbjByZf1iDvDD1pJI=
+
+Name: lib/asm-9.5.jar
+SHA-256-Digest: ti6EtZgHKXUbBFjFNM8TZvcnVCu40VhiEzVoKkYPA1M=
+
+Name: lib/audit-common-1.16.1.jar
+SHA-256-Digest: rVR30sNAjAR+M3VTgkcw9ZL9nCLIqeagi2zk2Ybla5Y=
+
+Name: lib/audit-log4j2-1.16.1.jar
+SHA-256-Digest: e+OcvVqmYgsS9vp71LgM5XYMNjpTrXzQ8UrofVdXxx8=
+
+Name: lib/commons-lang3-3.10.jar
+SHA-256-Digest: KJaK5V//RlSUCDrrqFb4gkw0kCMpiCv2HnckapHiWqk=
+
+Name: lib/crypto-utils-7.1.16.jar
+SHA-256-Digest: /e/kjQjO2X5os9U/MiF7RfYK66psHDy+cDt9tn/kmdo=
+
+Name: lib/dom4j-2.1.3.jar
+SHA-256-Digest: VJ8wB8YpD2qQHlfR0zG07Q5r9zhPeL8QMW/87sqDTeY=
+
+Name: lib/jboss-marshalling-2.0.12.Final.jar
+SHA-256-Digest: 7Re2SqT/qzeztEY0eF/NhjD4stDN5fZYldoFtwVz8EA=
+
+Name: lib/job-audit-1.5.jar
+SHA-256-Digest: mpUppLYu6ta41wLbcQ+raoXDaK109p3GFtyKK1YypYI=
+
+Name: lib/json-smart-2.4.11.jar
+SHA-256-Digest: 8v+0AWDYWiRrSkM37cr4EtsoEa8HXy3p4oXwvpmKLuA=
+
+Name: lib/log4j-api-2.17.1.jar
+SHA-256-Digest: sNikyKtPuLGIjQCVgicDsObUeTxBlVAgPanmkZYWHeQ=
+
+Name: lib/log4j-core-2.17.1.jar
+SHA-256-Digest: yWfyI0h5gLk2TpSnx/mooB/T7nwZvb8LD5+MuFEfPUE=
+
+Name: lib/log4j-slf4j-impl-2.17.1.jar
+SHA-256-Digest: 6aA3IOXVB2AJwlMGNdqdCEheKKCw7CBwja3FGvt45B4=
+
+Name: lib/logging-event-layout-1.16.1.jar
+SHA-256-Digest: ISZLnUo5f0jAR59AU6tBLDfbUY8WiebEM1P9k7Zv7SA=
+
+Name: lib/routines.jar
+SHA-256-Digest: nJmHZGwDLqIO4/q8MrxEm2YT4FakMxN8uBFSPlAXUdo=
+
+Name: lib/slf4j-api-1.7.34.jar
+SHA-256-Digest: WYc4ZbjCWoNWP4+PyT/+e78A+2gX9poEIOC5CTgeWmM=
+
+Name: lib/system-routines.jar
+SHA-256-Digest: jkceXTG6BsHbvbQP2DcsycDdsFcmf8HaiarqK3DaDJk=
+
+Name: lib/talend-proxy-1.0.2.jar
+SHA-256-Digest: xtxjy1rv8y72smd+xhRplssYo96lcIVyNVJhtVQ9/TY=
+
+Name: lib/talend_file_enhanced-1.3.1.jar
+SHA-256-Digest: WO3nYCz5Esc7LVIHaA4xVQZCU5WR8Qf/bJVjkuGRUeg=
+
+Name: lib/talendcsv-1.1.0.jar
+SHA-256-Digest: KDe3LS5mxut9PeoipQR+CsIqGb1tm+c2ba3AKMM6T8c=
+
