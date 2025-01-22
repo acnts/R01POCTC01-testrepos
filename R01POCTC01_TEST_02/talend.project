@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_opgjodhpEe-LUbmnXvwyDg" label="R01POCTC01-test-02" description="" language="java" technicalLabel="R01POCTC01_TEST_02" author="_opgjothpEe-LUbmnXvwyDg" productVersion="Talend Cloud Data Fabric-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/acnts/R01POCTC01-testrepos.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
-    <migrationTask xmi:id="_os6c8NhpEe-LUbmnXvwyDg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  <TalendProperties:Project xmi:id="_lEYtkdeZEe-AUqoYb9tI0A" label="R01POCTC01-test-02" description="" language="java" technicalLabel="R01POCTC01_TEST_02" author="_lEYtkteZEe-AUqoYb9tI0A" productVersion="Talend Cloud Data Fabric-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/acnts/R01POCTC01-testrepos.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_lIS9MNeZEe-AUqoYb9tI0A" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_opgjothpEe-LUbmnXvwyDg" login="toshihiro.suzuki@accenturejapanltd_nfr" firstName="toshihiro" lastName="suzuki" type="DQ"/>
-  <TalendProperties:User xmi:id="_u0iigNhpEe-3Rardm-l8UA" login="cmes-support_io@accenturejapanltd_nfr" firstName="IO" lastName="Support" type="DQ"/>
+  <TalendProperties:User xmi:id="_lEYtkteZEe-AUqoYb9tI0A" login="toshihiro.suzuki@accenturejapanltd_nfr" firstName="toshihiro" lastName="suzuki" type="DQ"/>
+  <TalendProperties:User xmi:id="_m5aVgNeZEe-AUqoYb9tI0A" login="cmes-support_io@accenturejapanltd_nfr" firstName="IO" lastName="Support" type="DQ"/>
 </xmi:XMI>
